@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://kaydron1000.github.io/SampleJek/sitemap.xml
